@@ -11,8 +11,20 @@ This document outlines the critical next steps for your homelab setup. We will m
 
 ## Homelab Optimization
 
-- [ ] **Review Service Redundancy:** Choose between Jellyfin and Plex, and remove the other.
-- [ ] **Consider OS Migration:** Plan for a migration from Ubuntu Desktop to Ubuntu Server for improved efficiency and security.
+- [x] **Commit to Jellyfin and remove Plex.**
+- [ ] **Migrate from Ubuntu Desktop to Ubuntu Server:**
+    - [ ] **Inventory and Backup:**
+        - [ ] Make a complete list of all running services.
+        - [ ] Back up all configuration files (e.g., from `/etc`).
+        - [ ] Back up all service data (media, databases, etc.).
+        - [ ] Verify backups.
+    - [ ] **Wipe and Reinstall:**
+        - [ ] Wipe the current OS.
+        - [ ] Install a fresh, minimal version of Ubuntu Server.
+    - [ ] **Restore and Reconfigure:**
+        - [ ] Reinstall services from the command line.
+        - [ ] Restore configuration files.
+        - [ ] Restore data.
 
 ## Future Enhancements
 
