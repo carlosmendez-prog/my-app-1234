@@ -1,32 +1,24 @@
-# Homelab Setup TODO
+# Homelab Project TODO
 
-This document outlines the critical next steps for your homelab setup. We will mark items as completed as we progress.
+This file tracks the foundational rebuild of the homelab environment. The current setup is insecure and inefficient. All items on this list are mandatory before proceeding to new projects.
 
-## Immediate Security Fixes
+## Phase 1: Secure the Foundation
 
-- [ ] **Secure SSH Access:** Implement SSH key-based authentication and disable password-based login. This is the highest priority.
-    - [ ] Generate SSH key pair on your local machine.
-    - [ ] Copy public key to the Ubuntu server.
-    - [ ] Disable password authentication in `/etc/ssh/sshd_config`.
+- [ ] **Secure SSH Access:**
+  - [ ] Generate a new SSH key pair on your client machine.
+  - [ ] Add the public key to the `authorized_keys` file on your server.
+  - [ ] **Crucially:** Disable password-based SSH authentication entirely.
+- [ ] **Plan OS Migration:**
+  - [ ] Formulate a detailed plan to migrate from Ubuntu Desktop to Ubuntu Server.
+  - [ ] This plan must include data backup strategies for your existing services (Minecraft world, Jellyfin metadata, etc.).
+- [ ] **Decommission Plex:**
+  - [ ] Shut down the Plex service.
+  - [ ] Uninstall the Plex package.
+  - [ ] Remove all associated Plex data and configuration files.
 
-## Homelab Optimization
+## Phase 2: Rebuild and Redeploy (Future)
 
-- [x] **Commit to Jellyfin and remove Plex.**
-- [ ] **Migrate from Ubuntu Desktop to Ubuntu Server:**
-    - [ ] **Inventory and Backup:**
-        - [ ] Make a complete list of all running services.
-        - [ ] Back up all configuration files (e.g., from `/etc`).
-        - [ ] Back up all service data (media, databases, etc.).
-        - [ ] Verify backups.
-    - [ ] **Wipe and Reinstall:**
-        - [ ] Wipe the current OS.
-        - [ ] Install a fresh, minimal version of Ubuntu Server.
-    - [ ] **Restore and Reconfigure:**
-        - [ ] Reinstall services from the command line.
-        - [ ] Restore configuration files.
-        - [ ] Restore data.
-
-## Future Enhancements
-
-- [ ] **Set up DNS:** Correctly configure your DNS service.
-- [ ] **Develop Landing Page:** Implement a landing page for your homelab services.
+- [ ] Execute the OS migration to Ubuntu Server.
+- [ ] Re-install and configure services (Jellyfin, Minecraft) on the new server OS.
+- [ ] Implement a proper DNS solution.
+- [ ] Begin development on the landing page.

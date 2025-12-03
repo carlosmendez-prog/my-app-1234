@@ -35,4 +35,4 @@ There are currently no build or run commands defined for the landing page projec
 
 # Development Conventions
 
-There are no established development conventions at this time. As the project evolves, it will be important to establish a consistent coding style, testing strategy, and contribution process. The `Guidelines.md` file can be used to document these conventions.
+The project's development conventions, including coding style, testing strategy, and contribution process, are documented in `Guidelines.md`.
