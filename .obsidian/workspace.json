@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Help request.md",
+                "file": "Content Consultant or Creator Coach/Resumen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Help request"
+              "title": "Resumen"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Help request.md",
+                "file": "Content Consultant or Creator Coach/Resumen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Help request"
+              "title": "Enlaces entrantes de Resumen"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Help request.md",
+                "file": "Content Consultant or Creator Coach/Resumen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Help request"
+              "title": "Enlaces salientes de Resumen"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Help request.md",
+                "file": "Content Consultant or Creator Coach/Resumen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Help request"
+              "title": "Esquema de Resumen"
             }
           }
         ]
@@ -171,10 +171,12 @@
   },
   "active": "bd020ce9001de2e5",
   "lastOpenFiles": [
+    "Content Consultant or Creator Coach/README.md",
+    "Content Consultant or Creator Coach/GEMINI.md",
     "Content_Strategy_Plan.md",
-    "Content Consultant or Creator Coach/Gfrozt02_Twitch_Review.md",
     "Help request.md",
-    "Content Consultant or Creator Coach/Help request.md",
+    "Content Consultant or Creator Coach/Gfrozt02_Twitch_Review.md",
+    "Content Consultant or Creator Coach/Resumen.md",
     "Content Consultant or Creator Coach/Gfrozt02_Youtube_Consultation.md",
     "Homelab Assistant/todo.md",
     "Homelab Assistant/README.md",
