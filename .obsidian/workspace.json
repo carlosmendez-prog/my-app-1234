@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content Consultant or Creator Coach/Dopamine Dump/README.md",
+                "file": "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-12-03"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Consultant or Creator Coach/Dopamine Dump/README.md",
+                "file": "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Enlaces entrantes de 2025-12-03"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Consultant or Creator Coach/Dopamine Dump/README.md",
+                "file": "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de README"
+              "title": "Enlaces salientes de 2025-12-03"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Consultant or Creator Coach/Dopamine Dump/README.md",
+                "file": "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de README"
+              "title": "Esquema de 2025-12-03"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "bd020ce9001de2e5",
   "lastOpenFiles": [
-    "Content Consultant or Creator Coach/GEMINI.md",
     "Content Consultant or Creator Coach/Dopamine Dump/README.md",
+    "Content Consultant or Creator Coach/Dopamine Dump/Sin título.md",
+    "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
+    "Content Consultant or Creator Coach/GEMINI.md",
     "Content Consultant or Creator Coach/Content_Strategy_Plan.md",
     "Content Consultant or Creator Coach/Dopamine Dump",
     "Content Consultant or Creator Coach/Estrategia_Maestra_Canal.md",
