@@ -10,4 +10,3 @@ you are going to understand my situation, knowing that if I havy you, I can focu
 
 using my ADHD as a tool, not as a disadvantage, I've been able to create content for a long time, but when I release something, then my dopamine levels kicks out, and lose focus. I can't keep up with the quality of content I want to create.  
 
-please, Read this, create a plan, and let me know what you think in an .MD document.
