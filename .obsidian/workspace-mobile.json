@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "ab3a54f10ee91cb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "122a367cb3f096cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bfae0e58e44a1d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content Consultant or Creator Coach/Gfrozt02_Youtube_Consultation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gfrozt02_Youtube_Consultation"
+            }
+          },
+          {
+            "id": "3220dce8e6066230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-03"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5156cd5b422bd426",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "81cca8bcb0e48019",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5ad3f1dc099c8c98",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "9c2a82e2d2960688",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "9960ce369bec64d5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "all-properties"
+        }
+      },
+      {
+        "id": "e4d339ec67fa05f7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9765efdcfe22f016",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a3515ac7b3d0fa6d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Content Consultant or Creator Coach/Gfrozt02_Youtube_Consultation.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "157f4195a780f33a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Content Consultant or Creator Coach/Gfrozt02_Youtube_Consultation.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "13c60e7ea79c42ca",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Content Consultant or Creator Coach/Gfrozt02_Youtube_Consultation.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "3c6a83671691c361",
+        "type": "leaf",
+        "state": {
+          "type": "footnotes",
+          "state": {
+            "file": "Content Consultant or Creator Coach/Gfrozt02_Youtube_Consultation.md"
+          },
+          "icon": "lucide-ghost",
+          "title": "footnotes"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "3220dce8e6066230",
+  "lastOpenFiles": [
+    "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03_response.md",
+    "Help request.md",
+    "Content Consultant or Creator Coach/Gfrozt02_Youtube_Consultation.md",
+    "Content Consultant or Creator Coach/Gfrozt02_Twitch_Review.md",
+    "Content Consultant or Creator Coach/GEMINI.md",
+    "Untitled REST test.md"
+  ]
+}
