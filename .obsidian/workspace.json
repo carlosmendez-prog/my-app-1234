@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "b7ba3410c7f4ed4e",
+    "id": "3c58c63f093503df",
     "type": "split",
     "children": [
       {
-        "id": "0ef4dc853e36a21b",
+        "id": "b5240794eb8aed2c",
         "type": "tabs",
         "children": [
           {
-            "id": "31dcf9d394908086",
+            "id": "bd020ce9001de2e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Assistant/README.md",
+                "file": "Personal Assistant/2025-12-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-12-07"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "51c0c5aaac52745f",
+    "id": "6ec98bc336685f05",
     "type": "split",
     "children": [
       {
-        "id": "c1c91d50901b4348",
+        "id": "94e9fdc01d30fefe",
         "type": "tabs",
         "children": [
           {
-            "id": "a0a071e036ec3f79",
+            "id": "c50a4ee011752273",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
-            "id": "059558021140e6e5",
+            "id": "f7226fe131444dcf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
-            "id": "0fd17705e08351bd",
+            "id": "e296e45894cd695f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -81,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "979aece471ee4c4e",
+    "id": "087df666b98e32e9",
     "type": "split",
     "children": [
       {
-        "id": "6ec8022969d7414f",
+        "id": "f29504864961b5c4",
         "type": "tabs",
         "children": [
           {
-            "id": "5690d4b07d12bd8e",
+            "id": "67a2530ff0d1263d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes de 2025-12-03"
             }
           },
           {
-            "id": "c6aea8c98e13504b",
+            "id": "579b9c3ae83f6449",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes de 2025-12-03"
             }
           },
           {
-            "id": "519fe0d634956022",
+            "id": "23168cc4d340c62e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,53 +133,30 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "32049d5b295fbc2b",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "df7064bcdc371f59",
+            "id": "dfe3e679f8459606",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "41cdd78a3288a928",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Esquema de 2025-12-03"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +170,10 @@
       "publish:Publicar cambios": false
     }
   },
-  "active": "31dcf9d394908086",
+  "active": "bd020ce9001de2e5",
   "lastOpenFiles": [
+    "Personal Assistant/GEMINI.md",
+    "Personal Assistant/2025-12-07.md",
     "Personal Assistant/summary.md",
     "Personal Assistant/README.md",
     "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
@@ -202,7 +183,18 @@
     "Content Consultant or Creator Coach/Dopamine Dump/Sin título.md",
     "Content Consultant or Creator Coach/GEMINI.md",
     "Content Consultant or Creator Coach/Content_Strategy_Plan.md",
+    "Content Consultant or Creator Coach/Dopamine Dump",
+    "Content Consultant or Creator Coach/Estrategia_Maestra_Canal.md",
     "Content Consultant or Creator Coach/Gfrozt02_Twitch_Review.md",
-    "Untitled REST test.md"
+    "Content Consultant or Creator Coach/Resumen.md",
+    "Content Consultant or Creator Coach/Gfrozt02_Youtube_Consultation.md",
+    "Content Consultant or Creator Coach/README.md",
+    "Content_Strategy_Plan.md",
+    "Help request.md",
+    "Homelab Assistant/todo.md",
+    "Homelab Assistant/README.md",
+    "Homelab Assistant/Guidelines.md",
+    "Data Analyst/GEMINI.md",
+    "Data Analyst/README.md"
   ]
 }
