@@ -11,14 +11,10 @@
             "id": "e635fcdb3cafb20a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "respuesta.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "respuesta"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "respuesta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de respuesta"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -133,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "respuesta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de respuesta"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -192,8 +186,9 @@
   },
   "active": "e635fcdb3cafb20a",
   "lastOpenFiles": [
-    "Personal Assistant/respuesta_a_las_preguntas_response.md",
     "respuesta.md",
+    "Personal Assistant/respuesta.md",
+    "Personal Assistant/respuesta_a_las_preguntas_response.md",
     "Personal Assistant/respuesta a las preguntas.md",
     "Personal Assistant/2025-12-07.md",
     "Personal Assistant/2025-12-07_response.md",
@@ -218,7 +213,6 @@
     "Homelab Assistant/todo.md",
     "Homelab Assistant/README.md",
     "Homelab Assistant/Guidelines.md",
-    "Data Analyst/GEMINI.md",
-    "Data Analyst/README.md"
+    "Data Analyst/GEMINI.md"
   ]
 }
