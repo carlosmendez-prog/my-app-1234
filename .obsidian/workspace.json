@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Assistant/otro resumen..md",
+                "file": "Personal Assistant/resumen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "otro resumen."
+              "title": "resumen"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Assistant/otro resumen..md",
+                "file": "Personal Assistant/resumen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de otro resumen."
+              "title": "Enlaces entrantes de resumen"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Assistant/otro resumen..md",
+                "file": "Personal Assistant/resumen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de otro resumen."
+              "title": "Enlaces salientes de resumen"
             }
           },
           {
@@ -172,9 +172,9 @@
   },
   "active": "d5d20646b7574cfe",
   "lastOpenFiles": [
+    "Personal Assistant/otro resumen..md",
     "Personal Assistant/resumen.md",
     "Personal Assistant/respuesta_response.md",
-    "Personal Assistant/otro resumen..md",
     "Personal Assistant/respuesta.md",
     "Personal Assistant/respuesta_a_las_preguntas_response.md",
     "respuesta.md",
