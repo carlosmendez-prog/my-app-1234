@@ -23,11 +23,23 @@ El archivo `otro resumen..md` detalla la ruptura en tiempo real. Siguiendo un gu
 4.  **Explosión de Ira y Culpa:** Un ataque verbal donde niega toda responsabilidad, lo culpa por las deudas y termina la relación de forma abrupta.
 5.  **Ataque Final:** Un mensaje de "Te odio tanto".
 
-### 4. Estado Actual
+### 4. Estado Actual y Primer Paso para la Recuperación
 
-Carlos se encuentra en el **doloroso y confuso período inmediatamente posterior a la ruptura**. Los sentimientos predominantes son:
+Carlos se encuentra en el **doloroso y confuso período inmediatamente posterior a la ruptura**, pero ha logrado un avance crucial. Los sentimientos predominantes al inicio fueron:
 *   **Dolor y Decepción:** Por la forma en que fue tratado y el final de la relación.
 *   **Culpa:** Un sentimiento recurrente activado por las tácticas de su ahora expareja.
-*   **Claridad Emergente:** A pesar del dolor, Carlos ha comenzado a **identificar conscientemente los patrones de manipulación** en tiempo real, lo cual es un paso fundamental para romper el ciclo.
+*   **Claridad Emergente:** A pesar del dolor, Carlos comenzó a **identificar conscientemente los patrones de manipulación** en tiempo real, lo cual fue un paso fundamental para romper el ciclo.
 
-Su objetivo inmediato es gestionar este torbellino emocional, cuidarse físicamente (como hizo al practicar Muay Thai para liberar estrés) y evitar caer de nuevo en las trampas de culpa de su expareja. La recuperación de su estabilidad financiera, detallada en `summary.md`, es un objetivo secundario una vez que su estado emocional se estabilice.
+**Primer Contacto Post-Ruptura y la Decisión de Carlos:**
+La expareja de Carlos intentó reengancharlo a través de una llamada, utilizando tácticas de manipulación extremas, incluyendo:
+*   Justificación de su agresión ("su mente explotó por frustración").
+*   Victimismo y ultimátums ("mejor dejemos la relación si no me entiendes").
+*   Desvío de culpa y reescritura de la historia (mencionando la "cuenta navideña" y la deuda de CMF como su culpa).
+*   Una manipulación particularmente cruel, insinuando que el estrés de la "pelea" afectaba a un posible bebé (usando un sueño compartido para generar la máxima culpa).
+
+A pesar de la intensidad de esta manipulación, Carlos logró:
+*   **Identificar las tácticas** en tiempo real.
+*   **Tomar la decisión consciente de protegerse**, colgando el teléfono con una frase firme y clara ("Esto no es sano para mí. No voy a seguir esta conversación. Adiós.").
+*   Experimentar una profunda sensación de **alivio y tranquilidad** tras colgar, lo cual ha sido interpretado como la señal de que hizo lo correcto y recuperó el control.
+
+Su objetivo inmediato es mantener el "no contacto", gestionar el dolor del duelo y consolidar la claridad que ha ganado. La recuperación de su estabilidad financiera, detallada en `summary.md`, es un objetivo secundario una vez que su estado emocional se estabilice.
