@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Assistant/2025-12-08.md",
+                "file": "2025-12-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-08"
+              "title": "2025-12-09"
             }
           }
         ]
@@ -194,9 +194,10 @@
   },
   "active": "31dcf9d394908086",
   "lastOpenFiles": [
-    "Personal Assistant/session_summary_2025-12-08.md",
     "Personal Assistant/2025-12-08_response.md",
+    "2025-12-09.md",
     "Personal Assistant/2025-12-08.md",
+    "Personal Assistant/session_summary_2025-12-08.md",
     "Personal Assistant/resumen.md",
     "Personal Assistant/otro resumen..md",
     "Homelab Assistant/README.md",
@@ -220,7 +221,6 @@
     "Content Consultant or Creator Coach/Estrategia_Maestra_Canal.md",
     "Content Consultant or Creator Coach/Dopamine Dump/README.md",
     "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03_response.md",
-    "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
     "Content Consultant or Creator Coach/Dopamine Dump"
   ]
 }
