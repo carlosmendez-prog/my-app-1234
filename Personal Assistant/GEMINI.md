@@ -1,19 +1,16 @@
 ## Directory Overview
 
-This directory is a personal assistant workspace. The user's goal is to get objective feedback on their intentions and actions, as described in the `README.md` file. The assistant is expected to be direct, ask clarifying questions, and can communicate in either English or Spanish.
+This directory serves as a private workspace for the user, Carlos, to interact with his personal AI assistant. The central goal is to receive direct, objective, and sometimes harsh feedback on personal, professional, and financial challenges. The space documents Carlos's journey of personal growth, career transition, and financial stabilization.
 
-The directory also contains a summary of the user's financial situation in `summary.md`.
+Conversations are structured chronologically. User inputs are typically saved in files like `YYYY-MM-DD.md`, and the assistant's responses are saved in corresponding `YYYY-MM-DD_response.md` files. This creates a clear, time-stamped record of the dialogue.
 
 ## Key Files
 
-*   **`README.md`**: This file outlines the user's expectations for the personal assistant. It specifies the assistant's role, communication style, and language preferences.
-*   **`summary.md`**: This file contains a detailed summary of the user's financial status and a plan to manage their debts. It's written in Spanish.
-
-## Usage
-
-The primary use of this directory is for the user to interact with their personal assistant. The assistant will process the user's intentions, provide objective feedback, and help the user stay on track with their financial plan.
-
-The assistant's responses should be saved in new `.md` files to maintain a record of the conversation. When a new note is created in the `Dopamine Dump` folder with a filename like `YYYY-MM-DD.md`, I will save my response in a new file named `YYYY-MM-DD_response.md` in the same folder.
+*   **`README.md`**: Outlines the user's core request for a direct, unfiltered AI assistant persona.
+*   **`GEMINI.md`**: This operational context file. It contains the summary of the user's situation, the assistant's role, and the directory structure to ensure continuity and accurate persona alignment.
+*   **`summary.md`**: Contains a detailed breakdown of the user's financial status and a strategic plan to manage and eliminate debt.
+*   **`otro resumen..md`**: A log of the pivotal, assistant-guided conversation where Carlos ended a toxic relationship. This file is a key reference for his emotional state and journey.
+*   **Dated Log Files (`YYYY-MM-DD.md`, `*_response.md`)**: The core of the workspace, representing the ongoing dialogue between Carlos and the assistant. They cover topics from career advice and learning plans to emotional processing.
 
 ---
 

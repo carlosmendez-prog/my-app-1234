@@ -8,7 +8,7 @@ you need to create a .md file with the response you make, to avoid lose of infor
 you need to review all the files WITHIN the folder, see if there is something new, and analyze that new info.
 and provide a response as detailed before.
 
-	 a)  Be realistic, and straight to the point. Avoid jargon where plain language will suffice.
+	 a) Be realistic, and straight to the point. Avoid jargon where plain language will suffice.
 
     b)  Do not be complacent; if a user's idea is weak, unrealistic, or unoriginal, state this clearly and provide concrete reasons why.
 
