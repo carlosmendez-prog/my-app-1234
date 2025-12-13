@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "3fbe2bae8bdb31c7",
         "type": "tabs",
         "children": [
           {
             "id": "d5d20646b7574cfe",
+=======
+        "id": "1efbc207609e5d6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31e1d211d8e94fee",
+>>>>>>> 903bc0822e57a0a77fbd26c170bb4af637df2843
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Personal Assistant/2025-12-09.md",
+=======
+                "file": "Personal Assistant/project explaination.md",
+>>>>>>> 903bc0822e57a0a77fbd26c170bb4af637df2843
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "2025-12-09"
+=======
+              "title": "project explaination"
+>>>>>>> 903bc0822e57a0a77fbd26c170bb4af637df2843
             }
           }
         ]
@@ -137,21 +153,47 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "dfe3e679f8459606",
+=======
+            "id": "df7064bcdc371f59",
+>>>>>>> 903bc0822e57a0a77fbd26c170bb4af637df2843
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
+=======
+                "file": "Personal Assistant/project explaination.md",
+>>>>>>> 903bc0822e57a0a77fbd26c170bb4af637df2843
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Esquema de 2025-12-03"
             }
           }
         ]
+=======
+              "title": "Outline of project explaination"
+            }
+          },
+          {
+            "id": "41cdd78a3288a928",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+>>>>>>> 903bc0822e57a0a77fbd26c170bb4af637df2843
       }
     ],
     "direction": "horizontal",
@@ -170,6 +212,7 @@
       "publish:Publicar cambios": false
     }
   },
+<<<<<<< HEAD
   "active": "d5d20646b7574cfe",
   "lastOpenFiles": [
     "Personal Assistant/GEMINI.md",
@@ -184,12 +227,42 @@
     "Personal Assistant/respuesta_a_las_preguntas_response.md",
     "respuesta.md",
     "Personal Assistant/respuesta a las preguntas.md",
+=======
+  "active": "41cdd78a3288a928",
+  "lastOpenFiles": [
+    "Personal Assistant/2025-12-11_response 1.md",
+    "Personal Assistant/project explaination.md",
+    "Personal Assistant/2025-12-11_response.md",
+    "Personal Assistant/2025-12-11.md",
+    "Personal Assistant/2025-12-11_response 2.md",
+    "Personal Assistant/GEMINI.md",
+    "Personal Assistant/otro resumen..md",
+    "Personal Assistant/README.md",
+    "Personal Assistant/2025-12-11_response first.md",
+    "Personal Assistant/2025-12-09.md",
+    "Personal Assistant/summary.md",
+    "Personal Assistant/respuesta.md",
+    "Personal Assistant/resumen.md",
+    "conflict-files-obsidian-git.md",
+    "Personal Assistant/2025-12-08_response.md",
+    "Personal Assistant/2025-12-08.md",
+    "Personal Assistant/session_summary_2025-12-08.md",
+    "Homelab Assistant/README.md",
+    "Homelab Assistant/GEMINI.md",
+    "Homelab Assistant/Guidelines.md",
+    "Homelab Assistant/todo.md",
+    "Personal Assistant/respuesta_response.md",
+    "Personal Assistant/respuesta_a_las_preguntas_response.md",
+    "Personal Assistant/respuesta a las preguntas.md",
+    "Personal Assistant/2025-12-07_response.md",
+>>>>>>> 903bc0822e57a0a77fbd26c170bb4af637df2843
     "Personal Assistant/2025-12-07.md",
     "Personal Assistant/2025-12-07_response.md",
     "Personal Assistant/README.md",
     "Personal Assistant/summary.md",
     "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
     "Personal Assistant",
+<<<<<<< HEAD
     "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03_response.md",
     "Content Consultant or Creator Coach/Dopamine Dump/README.md",
     "Content Consultant or Creator Coach/Dopamine Dump/Sin título.md",
@@ -200,5 +273,8 @@
     "Content Consultant or Creator Coach/Gfrozt02_Twitch_Review.md",
     "Content Consultant or Creator Coach/Resumen.md",
     "Content Consultant or Creator Coach/Gfrozt02_Youtube_Consultation.md"
+=======
+    "Content Consultant or Creator Coach/Dopamine Dump"
+>>>>>>> 903bc0822e57a0a77fbd26c170bb4af637df2843
   ]
 }
