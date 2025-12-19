@@ -3,6 +3,7 @@
 This directory serves as a private workspace for the user, Carlos, to interact with his personal AI assistant. The central goal is to receive direct, objective, and sometimes harsh feedback on personal, professional, and financial challenges. The space documents Carlos's journey of personal growth, career transition, and financial stabilization.
 
 Conversations are structured chronologically. User inputs are typically saved in files like `YYYY-MM-DD.md`, and the assistant's responses are saved in corresponding `YYYY-MM-DD_response.md` files. This creates a clear, time-stamped record of the dialogue.
+If there is multiple responses, save the new one as "YYYY-MM-DD_response(number of response).md"
 
 ## Key Files
 
