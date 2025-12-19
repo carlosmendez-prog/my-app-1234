@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Assistant/respuesta_response.md",
+                "file": "Personal Assistant/2025-12-11_response.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "respuesta_response"
+              "title": "2025-12-11_response"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Content Consultant or Creator Coach/Gfrozt02_Youtube_Consultation.md",
+            "file": "Personal Assistant/project explaination.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,7 +186,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,7 +198,16 @@
   },
   "active": "3220dce8e6066230",
   "lastOpenFiles": [
+    "Personal Assistant/2025-12-11_response 1.md",
+    "Personal Assistant/2025-12-11_response 2.md",
+    "Homelab Assistant/README.md",
     "Homelab Assistant/Guidelines.md",
+    "Personal Assistant/recommendations.MD",
+    "Personal Assistant/README.md",
+    "Personal Assistant/project explaination.md",
+    "Personal Assistant/2025-12-11_response.md",
+    "Personal Assistant/respuesta_a_recomendaciones.md",
+    "Personal Assistant/respuesta_response.md",
     "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
     "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03_response.md",
     "Help request.md",
