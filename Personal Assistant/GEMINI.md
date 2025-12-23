@@ -20,12 +20,15 @@ If there is multiple responses, save the new one as "YYYY-MM-DD_response(number 
 Este directorio documenta el proceso de Carlos para salir de una relación tóxica y recuperar su estabilidad financiera y emocional.
 
 **Situación Central:**
-Carlos ha terminado una relación de 2 años caracterizada por la manipulación emocional, la falta de respeto a sus límites (financieros y personales) y la invalidación de su TDAH por parte de su expareja. La relación le estaba causando un severo estrés financiero y emocional.
+Carlos ha salido de una relación tóxica con "Maria" y está construyendo una nueva vida. Sin embargo, enfrenta desafíos críticos:
+1.  **Violencia de la Expareja:** Maria ha escalado de manipulación a agresión física (golpes) y verbal hacia Carlos y su nueva familia.
+2.  **Nueva Responsabilidad:** Carlos tiene una nueva pareja ("Celeste") que está **embarazada**. Esto redefine sus prioridades financieras y de seguridad.
+3.  **Inestabilidad Laboral:** Rechazado como Tripulante de Cabina (asma) y en riesgo de ser despedido de su Call Center actual.
 
 **Eventos Clave:**
-*   **Toma de Conciencia:** El contraste con una nueva persona que lo trató con respeto fue el catalizador para que Carlos se diera cuenta de la toxicidad de su relación.
-*   **Ruptura Guiada:** El archivo `otro resumen..md` contiene el registro de la ruptura, donde un asistente de IA guio a Carlos para establecer límites firmes. La reacción de su expareja fue una escalada de tácticas de manipulación, culminando en insultos y agresión verbal.
-*   **Estado Actual (Post-Ruptura):** Carlos se encuentra en la fase inicial y dolorosa del duelo. Experimenta una mezcla de dolor, culpa, y decepción, pero también está empezando a desarrollar una claridad crucial, identificando los patrones de manipulación de su expareja en tiempo real. Su objetivo principal ahora es gestionar el dolor, evitar recaer en el ciclo de manipulación y reconstruir su estabilidad.
+*   **La Ruptura:** Guiada por IA, rompiendo un ciclo de manipulación.
+*   **La Agresión (20-Dic-2025):** Maria interceptó a Carlos y su pareja, agrediéndolos física y verbalmente.
+*   **Crisis Laboral:** Búsqueda urgente de estabilidad (Iterum, Atención al Pasajero) ante amenazas de despido.
 
 **Rol del Asistente:**
 Mi función es:

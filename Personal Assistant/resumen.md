@@ -23,23 +23,27 @@ El archivo `otro resumen..md` detalla la ruptura en tiempo real. Siguiendo un gu
 4.  **Explosión de Ira y Culpa:** Un ataque verbal donde niega toda responsabilidad, lo culpa por las deudas y termina la relación de forma abrupta.
 5.  **Ataque Final:** Un mensaje de "Te odio tanto".
 
-### 4. Estado Actual y Primer Paso para la Recuperación
+### 4. Estado Actual y Crisis Recientes (Diciembre 2025)
 
-Carlos se encuentra en el **doloroso y confuso período inmediatamente posterior a la ruptura**, pero ha logrado un avance crucial. Los sentimientos predominantes al inicio fueron:
-*   **Dolor y Decepción:** Por la forma en que fue tratado y el final de la relación.
-*   **Culpa:** Un sentimiento recurrente activado por las tácticas de su ahora expareja.
-*   **Claridad Emergente:** A pesar del dolor, Carlos comenzó a **identificar conscientemente los patrones de manipulación** en tiempo real, lo cual fue un paso fundamental para romper el ciclo.
+**A. Escalada de Violencia:**
+La expareja (Maria) ha cruzado la línea de la manipulación a la **agresión física**. El 20 de diciembre, apareció físicamente, golpeó a Carlos (cachetada) y agredió verbalmente a su actual pareja embarazada. Esto representa una amenaza de seguridad directa.
 
-**Primer Contacto Post-Ruptura y la Decisión de Carlos:**
-La expareja de Carlos intentó reengancharlo a través de una llamada, utilizando tácticas de manipulación extremas, incluyendo:
-*   Justificación de su agresión ("su mente explotó por frustración").
-*   Victimismo y ultimátums ("mejor dejemos la relación si no me entiendes").
-*   Desvío de culpa y reescritura de la historia (mencionando la "cuenta navideña" y la deuda de CMF como su culpa).
-*   Una manipulación particularmente cruel, insinuando que el estrés de la "pelea" afectaba a un posible bebé (usando un sueño compartido para generar la máxima culpa).
+**B. Nueva Estructura Familiar:**
+La situación personal de Carlos ha evolucionado rápidamente:
+*   Tiene una pareja estable ("Celeste/Mi mujer").
+*   **Hay un embarazo en curso.**
+*   Se menciona a "Isabella" (posible hija o familiar cercano) como parte de su núcleo "princesa".
+*   Esto aumenta exponencialmente la presión por estabilidad financiera y seguridad.
 
-A pesar de la intensidad de esta manipulación, Carlos logró:
-*   **Identificar las tácticas** en tiempo real.
-*   **Tomar la decisión consciente de protegerse**, colgando el teléfono con una frase firme y clara ("Esto no es sano para mí. No voy a seguir esta conversación. Adiós.").
-*   Experimentar una profunda sensación de **alivio y tranquilidad** tras colgar, lo cual ha sido interpretado como la señal de que hizo lo correcto y recuperó el control.
+**C. Situación Laboral Crítica:**
+*   **Rechazo:** Fue rechazado para el puesto de Tripulante de Cabina debido a su condición de asmático.
+*   **Riesgo de Despido:** Su trabajo actual (Call Center) está bajo amenaza durante el periodo de prueba. Le exigen justificaciones médicas (incapacidades) y él percibe una intención activa de despedirlo.
+*   **Alternativas:** Está considerando posiciones en "Iterum" (aunque el horario es difícil) o Atención al Pasajero (medio tiempo).
+
+### 5. Mecanismos de Afrontamiento Positivos
+
+En medio de la crisis, Carlos ha comenzado a desarrollar un interés activo ("obsesión" positiva) por su **bienestar físico, la hipertrofia y la nutrición**.
+*   **Función:** Este enfoque le permite recuperar una sensación de control sobre su propio cuerpo y vida, sirviendo como un contrapeso saludable al caos emocional y financiero.
+*   **Estrategia:** Está utilizando su curiosidad intelectual para investigar y optimizar sus rutinas, canalizando la energía del TDAH de manera constructiva.
 
 Su objetivo inmediato es mantener el "no contacto", gestionar el dolor del duelo y consolidar la claridad que ha ganado. La recuperación de su estabilidad financiera, detallada en `summary.md`, es un objetivo secundario una vez que su estado emocional se estabilice.
