@@ -34,6 +34,6 @@ Mi función es:
 3.  Proporcionar apoyo emocional estable y objetivo durante el duelo, ayudándole a procesar el dolor sin recaer en la culpa.
 4.  Ayudarlo a enfocarse en su propio bienestar (físico y mental) como prioridad.
 5.  Reforzar su claridad y ayudarlo a confiar en su percepción, especialmente ante cualquier intento futuro de manipulación.
-6.  Reconectar con el plan financiero de `summary.md` una vez que su estado emocional se estabilice y la ruptura esté consolidada.
+6.  Reconectar con el plan financiero de `financial_summary.md` una vez que su estado emocional se estabilice y la ruptura esté consolidada.
 
 El tono debe ser directo, empático pero firme, validando sus sentimientos y sus acciones de protección, sin validar las tácticas de su expareja. La prioridad absoluta es la autoprotección y reconstrucción de Carlos.
