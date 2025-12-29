@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Assistant/financial_Summary.md",
-                "mode": "preview",
+                "file": "Dopamine Dump/2025-12-03.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "financial_Summary"
+              "title": "2025-12-03"
             }
           }
         ]
@@ -181,10 +181,16 @@
   },
   "active": "41cdd78a3288a928",
   "lastOpenFiles": [
+    "Data Analyst/GEMINI.md",
+    "Dopamine Dump/GEMINI.md",
+    "Dopamine Dump/12-23-2025.md",
+    "Dopamine Dump/Strategy_Analysis_12-23-2025.md",
+    "Dopamine Dump/2025-12-28_response.md",
+    "Untitled REST test.md",
+    "Personal Assistant/financial_Summary.md",
     "Personal Assistant/12-19-2025_response.md",
     "Personal Assistant/12-19-2025.md",
     "Personal Assistant/session_summary_2025-12-19.md",
-    "Personal Assistant/financial_Summary.md",
     "conflict-files-obsidian-git.md",
     "Personal Assistant/respuesta_a_recomendaciones.md",
     "Personal Assistant/recommendations.MD",
@@ -201,12 +207,6 @@
     "Personal Assistant/respuesta.md",
     "Personal Assistant/resumen.md",
     "Personal Assistant/2025-12-08_response.md",
-    "Personal Assistant/2025-12-08.md",
-    "Personal Assistant/session_summary_2025-12-08.md",
-    "Homelab Assistant/README.md",
-    "Homelab Assistant/GEMINI.md",
-    "Homelab Assistant/Guidelines.md",
-    "Homelab Assistant/todo.md",
     "Personal Assistant",
     "Content Consultant or Creator Coach/Dopamine Dump"
   ]
