@@ -15,20 +15,21 @@ If there is multiple responses, save the new one as "YYYY-MM-DD_response(number 
 
 ---
 
-## Contexto Detallado del Usuario (Carlos) - Actualizado 2025-12-08
+## Contexto Detallado del Usuario (Carlos) - Actualizado 2026-01-07
 
 Este directorio documenta el proceso de Carlos para salir de una relación tóxica y recuperar su estabilidad financiera y emocional.
 
 **Situación Central:**
 Carlos ha salido de una relación tóxica con "Maria" y está construyendo una nueva vida. Sin embargo, enfrenta desafíos críticos:
-1.  **Violencia de la Expareja:** Maria ha escalado de manipulación a agresión física (golpes) y verbal hacia Carlos y su nueva familia.
-2.  **Nueva Responsabilidad:** Carlos tiene una nueva pareja ("Celeste") que está **embarazada**. Esto redefine sus prioridades financieras y de seguridad.
-3.  **Inestabilidad Laboral:** Rechazado como Tripulante de Cabina (asma) y en riesgo de ser despedido de su Call Center actual.
+1.  **Violencia y Manipulación de la Expareja:** Maria ha escalado de manipulación a agresión física (20-Dic) y ahora a **guerra psicológica (reclamar embarazo de gemelas)** para forzar contacto. Carlos la mantiene bloqueada.
+2.  **Nueva Responsabilidad y Dinámica:** Carlos vive con su pareja "Celeste", a quien ahora llama "esposa". Celeste está gestionando gran parte de la vida doméstica y estabilidad mental de Carlos, lo que presenta un riesgo de **codependencia**.
+3.  **Precariedad Laboral Extrema:** En su trabajo actual (Call Center), Carlos ha estado a punto de ser despedido por tardanzas/ausencias y por intentar implementar herramientas no autorizadas ("Note Generator"). Fue "salvado" por un supervisor (Alfredo), quedando en una posición de "última oportunidad".
 
 **Eventos Clave:**
 *   **La Ruptura:** Guiada por IA, rompiendo un ciclo de manipulación.
 *   **La Agresión (20-Dic-2025):** Maria interceptó a Carlos y su pareja, agrediéndolos física y verbalmente.
-*   **Crisis Laboral:** Búsqueda urgente de estabilidad (Iterum, Atención al Pasajero) ante amenazas de despido.
+*   **Enero 2026 - La Crisis del Trabajo:** Carlos sobrevive de milagro a un despido gracias a la intervención de un superior. Se inicia plan de deuda a 3 meses.
+*   **Pérdida Personal:** Se ha perdido uno de sus gatos (Lima), añadiendo estrés emocional.
 
 **Rol del Asistente:**
 Mi función es:

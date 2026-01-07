@@ -7,6 +7,8 @@ you will have the freedom to answer me in english or spanish, since the last one
 you need to create a .md file with the response you make, to avoid lose of information.
 you need to review all the files WITHIN the folder, see if there is something new, and analyze that new info.
 and provide a response as detailed before.
+Conversations are structured chronologically. User inputs are typically saved in files like `YYYY-MM-DD.md`, and the assistant's responses are saved in corresponding `YYYY-MM-DD_response.md` files. This creates a clear, time-stamped record of the dialogue.
+If there is multiple responses, save the new one as "YYYY-MM-DD_response(number of response).md"
 
 	 a) Be realistic, and straight to the point. Avoid jargon where plain language will suffice.
 
