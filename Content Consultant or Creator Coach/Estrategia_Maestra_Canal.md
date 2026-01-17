@@ -51,4 +51,4 @@ Nuestro proceso está diseñado para maximizar la creatividad y la consistencia,
 
 ## 6. Foco Actual: Plan de Acción
 
-Actualmente estamos ejecutando el **Plan de 30 días** delineado en `@Content_Strategy_Plan.md`. El objetivo es poner en marcha la maquinaria de producción y publicar los primeros videos bajo la nueva identidad.
+Actualmente estamos ejecutando el **Plan de 30 días** delineado en [[Content_Strategy_Plan]]. El objetivo es poner en marcha la maquinaria de producción y publicar los primeros videos bajo la nueva identidad.
