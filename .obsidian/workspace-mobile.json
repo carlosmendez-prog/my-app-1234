@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-03.md",
+                "file": "2026-01-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-03"
+              "title": "2026-01-07"
             }
           }
         ],
@@ -227,8 +227,11 @@
   },
   "active": "4ec7eb32b35aa255",
   "lastOpenFiles": [
-    "2025-12-28.md",
+    "Personal Assistant/1-7-2026.md",
+    "2026-01-07.md",
+    "Personal Assistant/1-7-2026_response.md",
     "2026-01-03.md",
+    "2025-12-28.md",
     "Content Consultant or Creator Coach/Dopamine Dump/2025-12-28.md",
     "Content Consultant or Creator Coach/Dopamine Dump/README.md",
     "Content Consultant or Creator Coach/README.md",
@@ -249,9 +252,6 @@
     "Homelab Assistant/README.md",
     "Homelab Assistant/Guidelines.md",
     "Personal Assistant/recommendations.MD",
-    "Personal Assistant/README.md",
-    "Personal Assistant/project explaination.md",
-    "Personal Assistant/respuesta_a_recomendaciones.md",
-    "Personal Assistant/respuesta_response.md"
+    "Personal Assistant/README.md"
   ]
 }
