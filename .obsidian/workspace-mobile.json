@@ -55,16 +55,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-07.md",
+                "file": "Personal Assistant/1-7-2026_response.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-7-2026_response"
+            }
+          },
+          {
+            "id": "f14ffe7ee8411f3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlanticus/Types of Fraud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-07"
+              "title": "Types of Fraud"
+            }
+          },
+          {
+            "id": "549b35a599edaf0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlanticus/Types of Fraud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types of Fraud"
+            }
+          },
+          {
+            "id": "60024bce46cea582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POS entry codes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "POS entry codes"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -155,7 +197,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personal Assistant/project explaination.md",
+            "file": "Atlanticus/Types of Fraud.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -225,33 +267,34 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "4ec7eb32b35aa255",
+  "active": "60024bce46cea582",
   "lastOpenFiles": [
+    "Atlanticus/Types of Fraud.md",
+    "POS entry codes.md",
+    "Atlanticus/Types of Identification.md",
+    "Personal Assistant/2025-12-22_response.md",
+    "Personal Assistant/2025-12-24.md",
+    "Personal Assistant/financial_Summary.md",
+    "Personal Assistant/respuesta_a_las_preguntas_response.md",
+    "Personal Assistant/respuesta_a_recomendaciones.md",
+    "Personal Assistant/respuesta_response.md",
+    "Personal Assistant/session_summary_2025-12-08.md",
+    "Personal Assistant/session_summary_2025-12-19.md",
+    "Homelab Assistant/todo.md",
+    "Homelab Assistant/Guidelines.md",
+    "Personal Assistant/1-7-2026_response.md",
+    "Atlanticus",
     "Personal Assistant/1-7-2026.md",
     "2026-01-07.md",
-    "Personal Assistant/1-7-2026_response.md",
     "2026-01-03.md",
     "2025-12-28.md",
     "Content Consultant or Creator Coach/Dopamine Dump/2025-12-28.md",
     "Content Consultant or Creator Coach/Dopamine Dump/README.md",
     "Content Consultant or Creator Coach/README.md",
     "Content Consultant or Creator Coach/Resumen.md",
-    "Untitled.md",
-    "Personal Assistant/2025-12-22_response.md",
     "Personal Assistant/2025-12-22.md",
     "Personal Assistant/2025-12-20.md",
     "2025-12-22.md",
-    "Untitled 1.md",
-    "Content Consultant or Creator Coach/Estrategia_Maestra_Canal.md",
-    "Content Consultant or Creator Coach/Content_Strategy_Plan.md",
-    "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03_response.md",
-    "Content Consultant or Creator Coach/Dopamine Dump/2025-12-03.md",
-    "Personal Assistant/2025-12-11_response.md",
-    "Personal Assistant/2025-12-11_response 1.md",
-    "Personal Assistant/2025-12-11_response 2.md",
-    "Homelab Assistant/README.md",
-    "Homelab Assistant/Guidelines.md",
-    "Personal Assistant/recommendations.MD",
-    "Personal Assistant/README.md"
+    "Untitled 1.md"
   ]
 }
