@@ -15,8 +15,3 @@
 - ﻿﻿80 - Chip card or chip- capable terminal was unable to process transaction using data on the chip
 - ﻿﻿81 - E-commerce and internet
 
-a 1-4 of 15
-
-P
-
-Q Search
