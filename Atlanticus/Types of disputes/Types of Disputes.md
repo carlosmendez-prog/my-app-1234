@@ -1,0 +1,8 @@
+- [[Merchandise not received]]
+- [[Services not rendered]]
+- [[Cancelled Merchandise]]
+- [[Credit not Processed]]
+- [[Damaged Merchandise]]
+- [[Counterfeit Merchandise]]
+- [[Goods & or Services not described]]
+- [[Duplicate Charge]]
