@@ -1,3 +1,0 @@
-- Lease agreement
-- Selfie with ID
-- Utility bill

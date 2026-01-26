@@ -1,33 +1,52 @@
 {
   "main": {
-    "id": "e86dfd5ac9f9482c",
+    "id": "db97afa4141fcf99",
     "type": "split",
     "children": [
       {
-        "id": "e554c8a7dedcea93",
+        "id": "9e95bab0352f4967",
         "type": "tabs",
         "children": [
           {
-            "id": "960f30023f0afeac",
+            "id": "356225fe9aa0348d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Types of disputes/Duplicate Charge or Incorrect amount Charged.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Duplicate Charge or Incorrect amount Charged"
+            }
+          },
+          {
+            "id": "b57c9804299d8c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unrecognized Transaction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unrecognized Transaction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "82e6437d0ce15141",
+    "id": "bc968b070313d94f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "819042c44ea1f653",
+        "id": "8c1057529acc8a1f",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +59,7 @@
         }
       },
       {
-        "id": "f8f1aa375298d3b6",
+        "id": "23bd2bd853f74f4c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,7 +76,7 @@
         }
       },
       {
-        "id": "60ad0070c83c508f",
+        "id": "3e4635ce594b1c76",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +91,7 @@
         }
       },
       {
-        "id": "86d19c8ebcdc8446",
+        "id": "e962988c8ffc6cbb",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -86,7 +105,7 @@
         }
       },
       {
-        "id": "d60a08b0d29e77fc",
+        "id": "34feaac6ee5a103f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,15 +118,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "f2f6c27f647bfd81",
+    "id": "f39650c18ea20aab",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "0078400ee2ed8565",
+        "id": "f6e70730646c62ee",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Unrecognized Transaction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,11 +141,12 @@
         }
       },
       {
-        "id": "469c23637418f078",
+        "id": "db0b6e6635587b04",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Paid by other means.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -134,11 +155,12 @@
         }
       },
       {
-        "id": "2fb34e5157bc76b6",
+        "id": "0f31c7943bd25b77",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "Paid by other means.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -161,6 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "960f30023f0afeac",
-  "lastOpenFiles": []
+  "active": "b57c9804299d8c94",
+  "lastOpenFiles": [
+    "Types of disputes/ATM Funds not disbursed.md",
+    "Types of disputes/Duplicate Charge or Incorrect amount Charged.md",
+    "Unrecognized Transaction.md",
+    "Types of disputes/Types of Disputes.md",
+    "Types of disputes/Paid by other means.md"
+  ]
 }

@@ -5,4 +5,8 @@
 - [[Damaged Merchandise]]
 - [[Counterfeit Merchandise]]
 - [[Goods & or Services not described]]
-- [[Duplicate Charge]]
+- [[Duplicate Charge or Incorrect amount Charged]]
+- [[Paid by other means]]
+- [[ATM Funds not disbursed]]
+- [[Unrecognized Transaction]]
+
